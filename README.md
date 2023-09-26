@@ -33,12 +33,8 @@ Here are the general steps for interacting with the contract after it's deployed
 If you encounter any common problems or have questions about using this contract, you can refer to Ethereum and Solidity documentation for guidance on deploying and interacting with smart contracts.
 
 
-## Authors
+## Author
 
 This smart contract example was created by David John Bas.
 You can reach out to me via email at davidjohnh.bas@gmail.com.
 
-
-## License
-
-This project is licensed under the David John Bas License - see the LICENSE.md file for details
