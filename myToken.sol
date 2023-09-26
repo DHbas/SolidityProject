@@ -41,6 +41,4 @@ contract MyToken {
         
     }
 
-
-
 }
